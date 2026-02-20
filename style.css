@@ -6,3 +6,11 @@ html, body{
     max-width: 400px;
     padding: 1rem
 }
+
+.bg-custom{
+    background-image: url("https://images.hdqwalls.com/wallpapers/geometric-glow-3d-falling-tiles-nu.jpg");
+}
+
+.bd-custom{
+    background-color: #2b3035;
+}
